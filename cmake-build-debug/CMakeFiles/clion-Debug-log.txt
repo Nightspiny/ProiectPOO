@@ -1,4 +1,4 @@
-"D:\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\POO\proiect -B D:\POO\proiect\cmake-build-debug
+"D:\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\PooGit\ProiectPOO -B D:\PooGit\ProiectPOO\cmake-build-debug
 -- The C compiler identification is GNU 13.1.0
 -- The CXX compiler identification is GNU 13.1.0
 -- Detecting C compiler ABI info
@@ -11,6 +11,6 @@
 -- Check for working CXX compiler: D:/CLion 2023.3.4/bin/mingw/bin/g++.exe - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (12.0s)
+-- Configuring done (17.8s)
 -- Generating done (0.0s)
--- Build files have been written to: D:/POO/proiect/cmake-build-debug
+-- Build files have been written to: D:/PooGit/ProiectPOO/cmake-build-debug

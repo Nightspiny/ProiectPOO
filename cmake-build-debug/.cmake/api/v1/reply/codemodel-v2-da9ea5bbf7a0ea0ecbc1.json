@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/POO/proiect/cmake-build-debug",
-		"source" : "D:/POO/proiect"
+		"build" : "D:/PooGit/ProiectPOO/cmake-build-debug",
+		"source" : "D:/PooGit/ProiectPOO"
 	},
 	"version" : 
 	{
