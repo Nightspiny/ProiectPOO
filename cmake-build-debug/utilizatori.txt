@@ -1,0 +1,2 @@
+Elev;Mariusica;13;10F
+Profesor;Marcel Avram;37;Matematica

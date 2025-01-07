@@ -1,0 +1,4 @@
+CarteFizica;Duck;John John;0;;20
+CarteElectronica;Goose;Greg Greg;0;;EPUB
+
+CarteElectronica;Dog;Mark Mark;0;;PDF
