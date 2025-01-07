@@ -1,0 +1,2 @@
+# ProiectPOO
+Gestionarea unei biblioteci
