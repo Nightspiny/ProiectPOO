@@ -1,4 +1,5 @@
-#Proiect - Gestionare Bibliotecă
+# Proiect Gestionare Biblioteca
+
 Acest proiect implementează un sistem de gestionare a bibliotecilor într-un mod obiectual, utilizând clase, moștenire și șabloane (template-uri). Codul principal oferă o interfață interactivă pentru administrarea cărților și utilizatorilor. Funcționalitățile acoperite includ adăugarea, afișarea, împrumutul, returnarea și gestionarea utilizatorilor și cărților.
 
 Funcționalități principale ale proiectului:
